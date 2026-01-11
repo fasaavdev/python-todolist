@@ -1,12 +1,11 @@
 # Description
 This is my first Python project.
 I created this project as a way to improve my programming skills and practice Python fundamentals through a real application.
----
----
+
 # Project Overview
 This program is a simple command line to-do list application built using basic Python.
 It focuses on logic, input handling, and list manipulation.
----
+
 
 # Features
 - Add tasks
