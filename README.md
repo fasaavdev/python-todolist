@@ -1,11 +1,12 @@
-# python-todolist
 # Description
 This is my first Python project.
 I created this project as a way to improve my programming skills and practice Python fundamentals through a real application.
-
+---
+---
 # Project Overview
 This program is a simple command line to-do list application built using basic Python.
 It focuses on logic, input handling, and list manipulation.
+---
 
 # Features
 - Add tasks
@@ -19,8 +20,7 @@ It focuses on logic, input handling, and list manipulation.
 - Pure Python basics
 
 # How to Run
-Run the program using:
-python tugas.py
+Run the pyhton tugas.py
 
 # Notes
 This project does not store data permanently.
