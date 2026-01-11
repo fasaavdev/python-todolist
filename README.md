@@ -19,7 +19,7 @@ It focuses on logic, input handling, and list manipulation.
 - Pure Python basics
 
 # How to Run
-Run the pyhton file tugas.py
+Run the python file tugas.py
 
 # Notes
 This project does not store data permanently.
@@ -28,11 +28,6 @@ All data is reset when the program stops.
 # Author
 Beginner Python learner.
 This project marks my first step in continuous self improvement.
-
-# Thanks To
-- ChatGPT
-
-because this AI has helped me to become a simulation client to make my first project :)
 
 # When This Project Has Created?
 11 January 2026
