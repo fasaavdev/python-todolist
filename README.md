@@ -33,3 +33,6 @@ This project marks my first step in continuous self improvement.
 - ChatGPT
 
 because this AI has helped me to become a simulation client to make my first project :)
+
+# When This Project Has Created?
+11 January 2026
