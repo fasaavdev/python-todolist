@@ -19,7 +19,7 @@ It focuses on logic, input handling, and list manipulation.
 - Pure Python basics
 
 # How to Run
-Run the pyhton tugas.py
+Run the pyhton file tugas.py
 
 # Notes
 This project does not store data permanently.
